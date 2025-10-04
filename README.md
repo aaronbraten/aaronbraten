@@ -1,9 +1,7 @@
 # Hello, I'm Aaron Braten
 <a href="https://www.linkedin.com/in/aaron-braten-63732483/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Senior Information Security Analyst with extensive experience in managing and leading security incident response teams. I have a proven track record of protecting enterprise-level information assets and ensuring compliance with industry standards. I excel in developing and implementing robust security policies, managing high-complexity security incidents, and leading cross-functional teams to mitigate risks and enhance security postures. My technical expertise spans the latest cybersecurity technologies and practices, and I am adept at fostering a culture of security awareness and continuous improvement to safeguard organizational data and infrastructure.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
