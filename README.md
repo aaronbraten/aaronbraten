@@ -1,24 +1,65 @@
-# Hello, I'm Aaron Braten
-<a href="https://www.linkedin.com/in/aaron-braten-63732483/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- Profile README for Aaron Braten -->
+<h1 align="center">Hi, I'm Aaron Braten</h1>
 
+<p align="center">
+  <em>Principal Incident Response & Detection Engineer | Red & Blue Team Hybrid | DFIR • Detection Engineering • Threat Automation</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaron-braten-63732483/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/aaron-braten/badges#credly">
+    <img src="https://img.shields.io/badge/-Certifications-00C851?style=for-the-badge&logo=Acclaim&logoColor=white" />
+  </a>
+  <a href="mailto:aaron.braten@example.com">
+    <img src="https://img.shields.io/badge/-Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+## Summary
 Senior Information Security Analyst with extensive experience in managing and leading security incident response teams. I have a proven track record of protecting enterprise-level information assets and ensuring compliance with industry standards. I excel in developing and implementing robust security policies, managing high-complexity security incidents, and leading cross-functional teams to mitigate risks and enhance security postures. My technical expertise spans the latest cybersecurity technologies and practices, and I am adept at fostering a culture of security awareness and continuous improvement to safeguard organizational data and infrastructure.
 
 ## Objective
 
 This portfolio showcases my practical cybersecurity projects, demonstrating real-world expertise across red teaming, detection engineering, and automation. Each repository highlights hands-on technical implementations—from building attack simulations and automated scanning tools to engineering detections in cloud and hybrid environments. The goal is to reflect both my technical depth and leadership in modern security operations, threat hunting, and incident response.
 
-## Skills
+## Featured Cybersecurity Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/aaronbraten/cloud-detection-lab" target="_blank">Cloud Detection Engineering Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/aaronbraten/threat-hunt-automation" target="_blank">Threat Hunt Automation Framework</a> |
-| Security Automation & SOAR Integration        | <a href="https://github.com/aaronbraten/cloud-detection-lab" target="_blank">Cloud Detection Engineering Lab</a> |
-| Web Application Pentesting & Vulnerability Scanning | <a href="https://github.com/aaronbraten/webapp-pentest-scanner" target="_blank">Web App Pentest & Scanner</a> |
-| Detection-as-Code & Threat Correlation         | <a href="https://github.com/aaronbraten/cloud-detection-lab" target="_blank">Cloud Detection Engineering Lab</a> |
-| Hypothesis-based Threat Hunting & Analytics    | <a href="https://github.com/aaronbraten/threat-hunt-automation" target="_blank">Threat Hunt Automation Framework</a> |
+### [WebApp Pentest & Scanner](https://github.com/aaronbraten/webapp-pentest-scanner)
+[![Build Status](https://github.com/aaronbraten/webapp-pentest-scanner/actions/workflows/docker-compose-integration.yml/badge.svg)](https://github.com/aaronbraten/webapp-pentest-scanner/actions/workflows/docker-compose-integration.yml)
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP_Top_10-E34F26?style=for-the-badge&logo=owasp&logoColor=white" />
+
+> End-to-end web application pentest suite — intentionally vulnerable Flask app, automated OWASP scanner, exploit PoCs, and CI/CD remediation validation.  
+> Demonstrates SQLi & XSS exploits → patch automation → regression testing pipeline.
 
 ---
+
+### [Cloud Detection Lab](https://github.com/aaronbraten/cloud-detection-lab)
+[![Cloud Detection Lab CI](https://github.com/aaronbraten/cloud-detection-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/aaronbraten/cloud-detection-lab/actions/workflows/ci.yml)
+<img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Detection_Engineering-FFD43B?style=for-the-badge&logoColor=black" />
+
+> Cloud-native detection environment simulating attack telemetry across Azure and AWS.  
+> Focus: Detection-as-code, cloud log ingestion, and MITRE ATT&CK-aligned analytics.
+
+---
+
+### [Threat Hunt Automation](https://github.com/aaronbraten/threat-hunt-automation)
+[![Threat Hunt Automation CI](https://github.com/aaronbraten/threat-hunt-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/aaronbraten/threat-hunt-automation/actions/workflows/ci.yml)
+<img src="https://img.shields.io/badge/-Sigma_Rules-00B4FF?style=for-the-badge&logo=sigma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk_Python_SDK-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Automation-4A154B?style=for-the-badge&logo=github&logoColor=white" />
+
+> Automated threat hunting and detection rule validation pipeline built with Python and Splunk SDK.  
+> Enforces analytic coverage, automated false-positive reduction, and CI-integrated hunt validation.
+
+---
+
+
 ## Tools
 
 ### Scripting & Automation
@@ -104,51 +145,3 @@ This portfolio showcases my practical cybersecurity projects, demonstrating real
 
 ---
 
-## Projects
-
-### Web App Pentest & Scanner
-<div>
-  <a href="https://github.com/aaronbraten/webapp-pentest-scanner" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_Top_10-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
-  </a>
-</div>
-<p>
-A self-contained vulnerable web application and automated scanner for OWASP Top 10 testing. Includes exploit scripts, remediation recommendations, and a reporting dashboard with visualized risk data.
-</p>
-
----
-
-### Threat Hunt Automation Framework
-<div>
-  <a href="https://github.com/aaronbraten/threat-hunt-automation" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sigma_Rules-003366?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATTACK-FF6F00?&style=for-the-badge&logo=MITRE&logoColor=white" />
-  </a>
-</div>
-<p>
-Automates hypothesis-based hunting using MITRE ATT&CK mapping and Sigma detections. Generates data-driven threat insights across Splunk and Sentinel with reusable Python/Jupyter notebooks.
-</p>
-
----
-
-### Cloud Detection Engineering Lab
-<div>
-  <a href="https://github.com/aaronbraten/cloud-detection-lab" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Logic_Apps-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-  </a>
-</div>
-<p>
-Detection-as-Code lab focused on building high-fidelity KQL detections and SOAR workflows in Microsoft Sentinel. Includes automated enrichment via Logic Apps and incident response playbook integration.
-</p>
