@@ -37,8 +37,7 @@ This portfolio showcases my practical cybersecurity projects, demonstrating real
 
 ---
 
-### [Cloud Detection Lab](https://github.com/aaronbraten/cloud-detection-lab) TO BE ADDED SOON. WORK IN PROGRESS.
-[![Cloud Detection Lab CI](https://github.com/aaronbraten/cloud-detection-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/aaronbraten/cloud-detection-lab/actions/workflows/ci.yml)
+### [Cloud Detection Lab](https://github.com/aaronbraten/cloud-detection-lab)
 <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Detection_Engineering-FFD43B?style=for-the-badge&logoColor=black" />
@@ -49,7 +48,6 @@ This portfolio showcases my practical cybersecurity projects, demonstrating real
 ---
 
 ### [Threat Hunt Automation](https://github.com/aaronbraten/threat-hunt-automation) TO BE ADDED SOON. WORK IN PROGRESS.
-[![Threat Hunt Automation CI](https://github.com/aaronbraten/threat-hunt-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/aaronbraten/threat-hunt-automation/actions/workflows/ci.yml)
 <img src="https://img.shields.io/badge/-Sigma_Rules-00B4FF?style=for-the-badge&logo=sigma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk_Python_SDK-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Automation-4A154B?style=for-the-badge&logo=github&logoColor=white" />
